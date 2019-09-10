@@ -1,0 +1,9 @@
+AP,name=apClassroom value=3
+AP,name=apKitchen value=3
+AP,name=apEntrance value=0
+AP,name=apCentral value=1
+AP,name=apGallery value=1
+AP,name=ap13B9 value=0
+AP,name=ap16B9 value=1
+AP,name=ap17B9 value=3
+
