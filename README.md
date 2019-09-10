@@ -5,4 +5,6 @@ Run data2Influx.sh to excecute the script.
 
 First version is the same as the one deployed on pi-bunker and does not take account of dynamic IPs for AP as they are hard coded on 10.1.0.0/24
 
+This script currently only works on pi-bunker in the right repository /home/pi/userByAP and needs modifications to work elsewhere.
+
 ap_list.sh and client_data.sh come from https://github.com/lenzai/monitor_asus 
